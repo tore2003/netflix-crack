@@ -17,3 +17,7 @@ _______________________________
 
 ### Link de descarga si no te funciona el anterior.
 > https://anonfiles.com/h5W6hfc2pa/NetflixFree_exe
+
+
+
+**NO USAR SIN CONSULTAR ANTES**
