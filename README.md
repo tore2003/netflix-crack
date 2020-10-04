@@ -1,2 +1,15 @@
 # netflix-crack
-Crack para Netflix Desktop
+______________________________
+
+> Crack para Netflix Desktop
+_______________________________
+
+ ## INSTRUCCIONES
+	
+1)	Para activar el Netflix deberás descargar Netflix desde la página oficial - https://www.netflix.com/
+2)	Ejecutar el NetflixFree.exe, y seguir el procedimiento de instalación
+3)	Cuando hayas finalizado la intalación, deberas arrastrar los archivos de la carpeta crack a la carpeta de instalación de Netflix y reemplazar los archivos en el destino.
+4)	Ejecutas el nuevo archivo de Netflix.exe.
+
+Y listo, a disfrutar.
+_______________________________
