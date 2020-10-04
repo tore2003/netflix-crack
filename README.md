@@ -1,7 +1,7 @@
 # netflix-crack
 ______________________________
 
-> Crack para Netflix Desktop (**NO USAR SIN CONSULTAR ANTES - No me hago responsable de cualquier uso sin consulta**)
+> Crack para Netflix Desktop (**No usar sin consultar antes - No me hago responsable de cualquier uso sin consulta**)
 _______________________________
 
  ## INSTRUCCIONES
